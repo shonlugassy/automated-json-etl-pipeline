@@ -1,6 +1,11 @@
 # JSON to DWH ETL Pipeline
 
-Automated ETL pipeline that extracts nested JSON data, transforms it into a structured tabular format, and loads it into Data Warehouse systems (MSSQL and PostgreSQL).
+The 'ETL_Nested_json.py' file is automated ETL pipeline that extracts nested JSON data, transforms it into a structured tabular format, and loads it into Data Warehouse systems (MSSQL and PostgreSQL).
+
+The 'Connection json file to MSSQL.py'is is automated ETL pipeline that extracts JSON data, transforms it into a structured tabular format, and loads it into Data Warehouse systems in MSSQL.
+
+The 'Reading Json File.py' file is code to reade a json file in In a convenient tabular format.
+
 
 This project demonstrates a real-world data engineering workflow including data extraction from APIs or files, transformation of nested JSON structures, and loading the processed data into relational databases.
 
